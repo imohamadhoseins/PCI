@@ -3,4 +3,4 @@ Principles of Computational Intelligence - By Dr.RezaEbrahimpour - srttu univers
 
 Several Implementation and articles about Computetional and networks intelligence are located with Honor .
 
-#Special thanks to @davari393
+#Special thanks to @davari393 :pray:
