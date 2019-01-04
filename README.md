@@ -7,6 +7,6 @@ Several Implementation and articles about Computetional and networks intelligenc
 Radial Basis Function Networks (RBF nets) are used for exactly this scenario: regression or function approximation. We have some data that represents an underlying trend or function and want to model it. RBF nets can learn to approximate the underlying trend using many Gaussians/bell curves.
 the output should be s.th like this : 
 
-![StyleTransfer_FilterNo1](/RBFNet-KMeans/figure1.png)
+![PCI-result](/RBFNet-KMeans/figure1.png)
 
 ### Special thanks to @davari393 :pray:
